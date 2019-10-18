@@ -5,3 +5,4 @@
 1. cmd -> ruby -v 명령어로 버전확인
 1. gem install rails 명령어로 rails 설치
 1. rails -v 명령어로 정상적으로 설치되었는지 확인
+# 2. IDE 프로젝트 생성하기
