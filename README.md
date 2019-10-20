@@ -31,4 +31,5 @@ end
 ```
 1. 실행 --> 할당 된 URL로 접속 --> /home으로 접속
     - 정상적으로 실행되었다면 1001이 출력됨
-# 2. Ruby on rails - 간단한 게시판 만들어보기
+
+[#Ruby on rails - 간단한 CURD구현](https://github.com/pjhsk113/rails-CRUD)
